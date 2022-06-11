@@ -1,0 +1,695 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "kLAoswEACAAJ",
+    "etag": "Kkr6jY5hJLc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/kLAoswEACAAJ",
+    "volumeInfo": {
+      "title": "Harry Potter and the Cursed Child",
+      "authors": ["J. K. Rowling", "Jack Thorne", "John Tiffany"],
+      "publisher": "Sphere",
+      "publishedDate": "2017-07-25",
+      "description": "The official playscript of the original West End production of Harry Potter and the Cursed Child. It was always difficult being Harry Potter and it isn't much easier now that he is an overworked employee of the Ministry of Magic, a husband, and father of three school-age children. While Harry grapples with a past that refuses to stay where it belongs, his youngest son Albus must struggle with the weight of a family legacy he never wanted. As past and present fuse ominously, both father and son learn the uncomfortable truth: sometimes, darkness comes from unexpected places. The playscript for Harry Potter and the Cursed Child was originally released as a 'special rehearsal edition' alongside the opening of Jack Thorne's play in London's West End in summer 2016. Based on an original story by J.K. Rowling, John Tiffany and Jack Thorne, the play opened to rapturous reviews from theatregoers and critics alike, while the official playscript became an immediate global bestseller. This revised paperback edition updates the 'special rehearsal edition' with the conclusive and final dialogue from the play, which has subtly changed since its rehearsals, as well as a conversation piece between director John Tiffany and writer Jack Thorne, who share stories and insights about reading playscripts. This edition also includes useful background information including the Potter family tree and a timeline of events from the wizarding world prior to the beginning of Harry Potter and the Cursed Child.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0751565369"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780751565362"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 352,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 3,
+      "ratingsCount": 4,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=kLAoswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=kLAoswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.uk/books?id=kLAoswEACAAJ&dq=harry+potter&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.co.uk/books?id=kLAoswEACAAJ&dq=harry+potter&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Cursed_Child.html?hl=&id=kLAoswEACAAJ"
+    },
+    "saleInfo": {
+      "country": "GB",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "GB",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=kLAoswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "As an overworked employee of the Ministry of Magic, a husband, and a father, Harry Potter struggles with a past that refuses to stay where it belongs while his youngest son, Albus, finds the weight of the family legacy difficult to bear."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "eq9XvgAACAAJ",
+    "etag": "zFvYLy2ZK7Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/eq9XvgAACAAJ",
+    "volumeInfo": {
+      "title": "Fantastic Beasts and Where to Find Them: Cinematic Guide: Newt Scamander Do Not Feed Out",
+      "authors": ["Felicity Baker"],
+      "publishedDate": "2017-02-02",
+      "description": "The essential film companion for Newt Scamander! Relive the magic of Newt's world with this hardback guidebook featuring your favourite scenes and quotes from Fantastic Beasts and Where to Find Them.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "1407179403"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781407179407"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 64,
+      "printType": "BOOK",
+      "averageRating": 3,
+      "ratingsCount": 2,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=eq9XvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=eq9XvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.uk/books?id=eq9XvgAACAAJ&dq=harry+potter&hl=&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.co.uk/books?id=eq9XvgAACAAJ&dq=harry+potter&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Fantastic_Beasts_and_Where_to_Find_Them.html?hl=&id=eq9XvgAACAAJ"
+    },
+    "saleInfo": {
+      "country": "GB",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "GB",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=eq9XvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Relive all the magic of Newt&#39;s world with this hardback guidebook featuring all you need to know about Newt from the movie."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "obrNzgEACAAJ",
+    "etag": "sQyAVwFLxzw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/obrNzgEACAAJ",
+    "volumeInfo": {
+      "title": "Harry Potter e a pedra filosofal",
+      "authors": ["J. K. Rowling"],
+      "publishedDate": "1999",
+      "description": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School for Wizards and Witches.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "8532530788"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9788532530783"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 207,
+      "printType": "BOOK",
+      "categories": ["England"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "language": "pt-BR",
+      "previewLink": "http://books.google.co.uk/books?id=obrNzgEACAAJ&dq=harry+potter&hl=&cd=3&source=gbs_api",
+      "infoLink": "http://books.google.co.uk/books?id=obrNzgEACAAJ&dq=harry+potter&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_e_a_pedra_filosofal.html?hl=&id=obrNzgEACAAJ"
+    },
+    "saleInfo": {
+      "country": "GB",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "GB",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=obrNzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School for Wizards and Witches."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "HksgDQAAQBAJ",
+    "etag": "Ppj6M01y7t0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HksgDQAAQBAJ",
+    "volumeInfo": {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "authors": ["J. K. Rowling"],
+      "publisher": "Bloomsbury Publishing",
+      "publishedDate": "2014-01-09",
+      "description": "Celebrate 20 years of Harry Potter magic! Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It's time to PASS THE MAGIC ON ...",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781408855898"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1408855895"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 352,
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "averageRating": 5,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.2.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=HksgDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=HksgDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.uk/books?id=HksgDQAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=4&source=gbs_api",
+      "infoLink": "http://books.google.co.uk/books?id=HksgDQAAQBAJ&dq=harry+potter&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=HksgDQAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "GB",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "GB",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=HksgDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "An incredible adventure is about to begin!These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "PexwDwAAQBAJ",
+    "etag": "bhcnM5OwUxc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/PexwDwAAQBAJ",
+    "volumeInfo": {
+      "title": "Harry Potter - a History of Magic",
+      "subtitle": "The Book of the Exhibition",
+      "authors": ["British Library"],
+      "publisher": "Bloomsbury Children's Books",
+      "publishedDate": "2018-10-18",
+      "description": "Harry Potter: A History of Magic is the official book of the exhibition, a once-in-a-lifetime collaboration between Bloomsbury, J.K. Rowling and the brilliant curators of the British Library. It promises to take readers on a fascinating journey through the subjects studied at Hogwarts School of Witchcraft and Wizardry -- from Alchemy and Potions classes through to Herbology and Care of Magical Creatures. Each chapter showcases a treasure trove of artefacts from the British Library and other collections around the world, beside exclusive manuscripts, sketches and illustrations from the Harry Potter archive. There's also a specially commissioned essay for each subject area by an expert, writer or cultural commentator, inspired by the contents of the exhibition -- absorbing, insightful and unexpected contributions from Steve Backshall, the Reverend Richard Coles, Owen Davies, Julia Eccleshare, Roger Highfield, Steve Kloves, Lucy Mangan, Anna Pavord and Tim Peake, who offer a personal perspective on their magical theme.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781526607072"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1526607077"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 256,
+      "printType": "BOOK",
+      "categories": ["Fantasy fiction, English"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.1.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=PexwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=PexwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.uk/books?id=PexwDwAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.co.uk/books?id=PexwDwAAQBAJ&dq=harry+potter&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_a_History_of_Magic.html?hl=&id=PexwDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "GB",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "GB",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=PexwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Harry Potter: A History of Magic is the official book of the exhibition, a once-in-a-lifetime collaboration between Bloomsbury, J.K. Rowling and the brilliant curators of the British Library."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "I5nHBAAAQBAJ",
+    "etag": "g66epTJyXxE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/I5nHBAAAQBAJ",
+    "volumeInfo": {
+      "title": "Harry Potter and the Deathly Hallows",
+      "authors": ["J. K. Rowling"],
+      "publisher": "Bloomsbury Publishing",
+      "publishedDate": "2014-01-01",
+      "description": "Burdened with the dark, dangerous, and seemingly impossible task of locating and destroying Voldemort's remaining Horcruxes, Harry, feeling alone and uncertain about his future, struggles to find the inner strength he needs to follow the path set out before him.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781408855713"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1408855712"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 619,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 3385,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=I5nHBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=I5nHBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.uk/books?id=I5nHBAAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=6&source=gbs_api",
+      "infoLink": "http://books.google.co.uk/books?id=I5nHBAAAQBAJ&dq=harry+potter&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Deathly_Hallows.html?hl=&id=I5nHBAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "GB",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "GB",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=I5nHBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Burdened with the dark, dangerous, and seemingly impossible task of locating and destroying Voldemort&#39;s remaining Horcruxes, Harry, feeling alone and uncertain about his future, struggles to find the inner strength he needs to follow the ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "DAAAAAAACAAJ",
+    "etag": "fDO07sG+HSA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DAAAAAAACAAJ",
+    "volumeInfo": {
+      "title": "Harry Potter",
+      "subtitle": "5 Years of Magic, Adventure, and Mystery at Hogwarts",
+      "authors": ["J. K. Rowling"],
+      "publisher": "Scholastic",
+      "publishedDate": "2004-09-01",
+      "description": "The first five years of Harry Potter magic are captured in a boxed set which includes The Sorcerer's Stone, The Chamber of Secrets, The Prisoner of Azkaban, The Goblet of Fire, and The Order of the Phoenix. Simultaneous.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0439682584"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780439682589"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 13,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=DAAAAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=DAAAAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.uk/books?id=DAAAAAAACAAJ&dq=harry+potter&hl=&cd=7&source=gbs_api",
+      "infoLink": "http://books.google.co.uk/books?id=DAAAAAAACAAJ&dq=harry+potter&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter.html?hl=&id=DAAAAAAACAAJ"
+    },
+    "saleInfo": {
+      "country": "GB",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "GB",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=DAAAAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "The first five years of Harry Potter magic are captured in a boxed set which includes The Sorcerer&#39;s Stone, The Chamber of Secrets, The Prisoner of Azkaban, The Goblet of Fire, and The Order of the Phoenix. Simultaneous."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "LbnwCQAAQBAJ",
+    "etag": "qYRd7Hc+6hA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/LbnwCQAAQBAJ",
+    "volumeInfo": {
+      "title": "Playing Harry Potter",
+      "subtitle": "Essays and Interviews on Fandom and Performance",
+      "authors": ["Lisa S. Brenner"],
+      "publisher": "McFarland",
+      "publishedDate": "2015-06-11",
+      "description": "Through classroom activities, wizard rock concerts, and organizations like the Harry Potter Alliance, Harry Potter fans are using creativity to positively impact the world. This collection of essays and interviews examines how playful fandom--from fanfiction to Muggle quidditch, cosplay, role-playing games, and even Harry Potter burlesque--not only reimagines the canon but also challenges consumerism, questions notions of identity, and fosters participatory culture. The contributors explore issues applicable to fan studies and performance studies at large, such as the role of performance, the nature of community, and questions of representation and ownership in the digital age. Presented in three parts, the essays discuss discrepancies between sanctioned versions of Harry Potter and fan creations, the reenactment and reinterpretation of the original narrative in fan performance, and collaborative and participatory performances that break down the boundaries between actors and audiences.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780786496570"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0786496576"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 238,
+      "printType": "BOOK",
+      "categories": ["Literary Criticism"],
+      "averageRating": 5,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=LbnwCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=LbnwCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.uk/books?id=LbnwCQAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=8&source=gbs_api",
+      "infoLink": "http://books.google.co.uk/books?id=LbnwCQAAQBAJ&dq=harry+potter&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Playing_Harry_Potter.html?hl=&id=LbnwCQAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "GB",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "GB",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=LbnwCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "This collection of essays and interviews examines how playful fandom--from fanfiction to Muggle quidditch, cosplay, role-playing games, and even Harry Potter burlesque--not only reimagines the canon but also challenges consumerism, ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "nYKYzgEACAAJ",
+    "etag": "SiGXMBYo+pE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/nYKYzgEACAAJ",
+    "volumeInfo": {
+      "title": "Harry Potter and the Philosopher's Stone - 25th Anniversary Edition",
+      "authors": ["J. K. Rowling"],
+      "publisher": "Bloomsbury Children's Books",
+      "publishedDate": "2022-06-09",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "152664665X"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781526646651"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 368,
+      "printType": "BOOK",
+      "averageRating": 1,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=nYKYzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=nYKYzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.uk/books?id=nYKYzgEACAAJ&dq=harry+potter&hl=&cd=9&source=gbs_api",
+      "infoLink": "http://books.google.co.uk/books?id=nYKYzgEACAAJ&dq=harry+potter&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=nYKYzgEACAAJ"
+    },
+    "saleInfo": {
+      "country": "GB",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "GB",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=nYKYzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "eQRbEAAAQBAJ",
+    "etag": "RZYYG5VAHJI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/eQRbEAAAQBAJ",
+    "volumeInfo": {
+      "title": "Harry Potter",
+      "subtitle": "A Journey Through a History of Magic",
+      "authors": ["British Library"],
+      "publisher": "Bloomsbury Publishing",
+      "publishedDate": "2017",
+      "description": "\"An irresistible romp through the history of magic, from alchemy to unicorns, ancient witchcraft to Harry's Hogwarts - packed with unseen sketches and manuscript pages from J.K. Rowling, magical illustrations from Jim Kay and weird, wonderful and inspiring artefacts that have been magically released from the archives at the British Library. This spellbinding book takes readers on a journey through the Hogwarts curriculum, including Herbology, Defence Against the Dark Arts, Astronomy, Divination and more. Discover the truth behind making the Philosopher's Stone, create your very own potion and uncover the secret of invisible ink. Learn all about the history of mandrake roots and dragons, discover what witches really used their brooms for, pore over incredible images of actual mermaids and read about real-life potions, astronomers and alchemists. The perfect gift for aspiring witches and wizards and any Harry Potter fan. Celebrating twenty years of Harry Potter magic, and produced in association with the British Library to support their major exhibition, Harry Potter: A History of Magic.\" --",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781408890776"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1408890771"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 144,
+      "printType": "BOOK",
+      "categories": ["JUVENILE NONFICTION"],
+      "averageRating": 2,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=eQRbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=eQRbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.uk/books?id=eQRbEAAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=10&source=gbs_api",
+      "infoLink": "http://books.google.co.uk/books?id=eQRbEAAAQBAJ&dq=harry+potter&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter.html?hl=&id=eQRbEAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "GB",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "GB",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=eQRbEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "This spellbinding book takes readers on a journey through the Hogwarts curriculum, including Herbology, Defence Against the Dark Arts, Astronomy, Divination and more."
+    }
+  }
+]
